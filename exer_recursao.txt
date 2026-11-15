@@ -1,0 +1,4 @@
+questão 1:
+As informações mque da pra extrair é que, uma função chamada sauda(), contém uma outra função chamada sauda2() e essa
+função está na chamada atual da função sauda() pois ainda está encima do bloco sauda2()
+

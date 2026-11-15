@@ -1,0 +1,5 @@
+questão 1:
+O número máximo de etapas considerando 128 nomes, seria 7.
+
+questão 2:
+Com o número de nomes dobrado (256) o número de etapas é 8.
